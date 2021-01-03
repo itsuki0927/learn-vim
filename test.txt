@@ -1,4 +1,6 @@
-Read Drew Neil's
-Practical Vim, by Drew Neil 
-4P8_a
-¿[b]ractical Vim
+Shopping list
+  Hardware Store
+    Buy new hammer
+  Beauty Parlor
+    Buy nail polish remover
+    Buy nails 
