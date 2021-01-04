@@ -1,6 +1,11 @@
-Shopping list
+//Shopping list;
   Hardware Store
     Buy new hammer
   Beauty Parlor
     Buy nail polish remover
     Buy nails 
+
+var <C-r><C-w>;
+for (count=1; <C-r><C-w> <= 10; <C-r><C-w>++) {
+// do something with <C-r><C-w>
+}; 
