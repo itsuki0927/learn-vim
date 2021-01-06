@@ -4,6 +4,8 @@
   Beauty Parlor
     Buy nail polish remover
     Buy nails 
+// do something with <C-r><C-w>
+//Shopping list;
 
 var <C-r><C-w>;
 for (count=1; <C-r><C-w> <= 10; <C-r><C-w>++) {
