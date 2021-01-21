@@ -11,3 +11,7 @@ var <C-r><C-w>;
 for (count=1; <C-r><C-w> <= 10; <C-r><C-w>++) {
 // do something with <C-r><C-w>
 }; 
+
+var tpl = [ 
+'<a href="{url}">{title}</a>'
+]
