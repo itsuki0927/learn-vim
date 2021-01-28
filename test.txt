@@ -15,3 +15,5 @@ for (count=1; <C-r><C-w> <= 10; <C-r><C-w>++) {
 var tpl = [ 
 '<a href="{url}">{title}</a>'
 ]
+collection = getCollection(); 
+process(collection,target);
